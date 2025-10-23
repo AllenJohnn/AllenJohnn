@@ -13,9 +13,7 @@
   <a href="https://linkedin.com/in/allenjohnjoy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_allen.john_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
