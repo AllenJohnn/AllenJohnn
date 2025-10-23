@@ -29,10 +29,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Computer Science Graduate** from *Sahrdaya College of Advanced Studies*  
-- 💡 Passionate about **Frontend Development** and **Machine Learning**  
-- 🧠 Learning **TensorFlow** and **Advanced React**  
-- ⚙️ Building: *Medicine Alternative Recommender (MED-ALT)* using Flask, Scikit-learn, and NLTK  
+- 🎓 **Computer Science Graduate** 
+- 💡 Passionate about **Frontend Development**  
+- 🧩 Always exploring new technologies to expand my skills and stay ahead in the evolving tech landscape.  
+- 🌱 Currently deepening my expertise in **Modern Frontend Frameworks** and **Data-Driven Applications**.  
+
 
 ---
 
