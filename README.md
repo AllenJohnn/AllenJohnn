@@ -27,11 +27,11 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Computer Science Graduate**
-- 💡 Passionate about **Frontend Development**
-- 🧩 Always exploring new technologies to expand my skills and stay ahead in the evolving tech landscape.
-- 🌱 Currently deepening my expertise in **Modern Frontend Frameworks** and **Data-Driven Applications**.
+###  About Me
+-  **Computer Science Graduate**
+-  Passionate about **Frontend Development**
+-  Always exploring new technologies to expand my skills and stay ahead in the evolving tech landscape.
+-  Currently deepening my expertise in **Modern Frontend Frameworks** and **Data-Driven Applications**.
 
 ---
 
