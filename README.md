@@ -16,7 +16,11 @@
   <a href="http://discord.com/users/858314112361824256" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://allenjohn-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -35,10 +39,6 @@
 
 ---
 
-### 🔗 Portfolio  
-https://allenjohn-portfolio.vercel.app/
-
----
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
