@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://allenjohn-portfolio.vercel.app/" target="_blank">
+  <a href="https://allenjohnportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/allenjohnjoy" target="_blank">
