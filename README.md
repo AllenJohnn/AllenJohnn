@@ -25,7 +25,6 @@
 
 ## About Me
 
-- MCA Student at Sahrdaya College of Advanced Studies
 - Frontend Developer focused on building responsive and user-friendly web applications
 - Experienced with Angular, React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
 - Passionate about modern web technologies and creating impactful digital experiences
@@ -42,16 +41,6 @@
 
 ---
 
-## Featured Project
-
-### DocShare — Secure Document Sharing Platform
-
-- Developed a secure document sharing and management platform
-- Built using Angular, Node.js, PostgreSQL, and modern web technologies
-- Implemented authentication, role-based access control, and document management features
-- Focused on security, performance, and seamless user experience
-
----
 
 ## Currently Exploring
 
