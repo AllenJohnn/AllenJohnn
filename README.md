@@ -1,16 +1,23 @@
-<!-- Profile Header -->
 <h1 align="center">Allen John</h1>
-<h3 align="center">MCA Student • Frontend Developer • Building Modern Web Experiences</h3>
+<h3 align="center">MCA Student • Frontend Developer • Full-Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-dccf7b34-61a2-4f49-9b6b-7ca1b89423e0.gif" width="100%">
+</p>
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://allenjohnportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/allenjohnjoy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="http://discord.com/users/858314112361824256" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -18,15 +25,12 @@
 
 ## About Me
 
-🎓 MCA Student at **Sahrdaya College of Advanced Studies**
-
-💻 Frontend Developer focused on creating responsive and user-friendly web applications
-
-🚀 Experienced with Angular, React, JavaScript, Python, and PostgreSQL
-
-📊 Built a Machine Learning-based Medicine Alternative Recommendation System using Scikit-learn and NLTK
-
-🌱 Currently exploring advanced frontend architectures, performance optimization, and AI-powered applications
+- MCA Student at Sahrdaya College of Advanced Studies
+- Frontend Developer focused on building responsive and user-friendly web applications
+- Experienced with Angular, React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
+- Passionate about modern web technologies and creating impactful digital experiences
+- Strong interest in full-stack development, UI/UX design, and scalable applications
+- Continuously learning and improving through projects and hands-on development
 
 ---
 
@@ -40,21 +44,22 @@
 
 ## Featured Project
 
-### MED-ALT – Medicine Alternative Recommendation System
+### DocShare — Secure Document Sharing Platform
 
-- Machine Learning-powered recommendation engine
-- Built using Python, Flask, Scikit-learn, NLTK, and PostgreSQL
-- User authentication and medicine search functionality
-- Focused on improving accessibility to medicine alternatives
+- Developed a secure document sharing and management platform
+- Built using Angular, Node.js, PostgreSQL, and modern web technologies
+- Implemented authentication, role-based access control, and document management features
+- Focused on security, performance, and seamless user experience
 
 ---
 
-## Currently Working On
+## Currently Exploring
 
-- Modern Angular & React Applications
-- Full-Stack Development
-- Machine Learning & AI Integration
-- Open Source Contributions
+- Advanced Angular Development
+- React Ecosystem
+- Full-Stack Application Architecture
+- Cloud Technologies
+- AI-Powered Applications
 
 ---
 
@@ -63,5 +68,6 @@
 </p>
 
 <p align="center">
-  <i>"Building solutions, learning continuously, and turning ideas into reality."</i>
+  <i>"Building impactful digital experiences through code."</i>
 </p>
+
