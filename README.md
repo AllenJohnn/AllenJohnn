@@ -26,7 +26,7 @@
 ## About Me
 
 - Frontend Developer focused on building responsive and user-friendly web applications
-- Experienced with Angular, React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
+- Experienced with  React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
 - Passionate about modern web technologies and creating impactful digital experiences
 - Strong interest in full-stack development, UI/UX design, and scalable applications
 - Continuously learning and improving through projects and hands-on development
