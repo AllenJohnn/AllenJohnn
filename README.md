@@ -26,7 +26,7 @@
 ## About Me
 
 - Frontend Developer focused on building responsive and user-friendly web applications
-- Experienced with  React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
+- Experienced with React, JavaScript, Python, PostgreSQL, Node.js, HTML, and CSS
 - Passionate about modern web technologies and creating impactful digital experiences
 - Strong interest in full-stack development, UI/UX design, and scalable applications
 - Continuously learning and improving through projects and hands-on development
@@ -41,10 +41,8 @@
 
 ---
 
-
 ## Currently Exploring
 
-- Advanced Angular Development
 - React Ecosystem
 - Full-Stack Application Architecture
 - Cloud Technologies
@@ -52,10 +50,9 @@
 
 ---
 
+## GitHub Activity
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-<p align="center">
-  <i>"Building impactful digital experiences through code."</i>
-</p>
