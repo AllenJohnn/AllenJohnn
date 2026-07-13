@@ -1,40 +1,38 @@
-name: Metrics
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AllenJohnn
           filename: github-metrics.svg
 
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          user: AllenJohnn
           template: classic
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Kolkata
-
-          config_animations: yes
-          config_octicon: yes
-          config_twemoji: yes
           config_display: large
+          config_animations: yes
 
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used,recent
           plugin_languages_details: bytes-size,percentage
-          plugin_languages_recent_days: 30
+          plugin_languages_indepth: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -44,23 +42,20 @@ jobs:
           plugin_achievements_display: compact
 
           plugin_habits: yes
+          plugin_habits_days: 30
           plugin_habits_from: 200
-          plugin_habits_days: 14
 
           plugin_lines: yes
 
           plugin_followup: yes
           plugin_followup_sections: repositories,user
 
+          plugin_notable: yes
+
           plugin_stars: yes
 
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
-
-          plugin_notable: yes
+          plugin_topics_mode: mastered
 
           plugin_repositories: yes
-          plugin_repositories_featured: AllenJohnn/DocShare,AllenJohnn/Tessera,AllenJohnn/MED-ALT
-
-          plugin_traffic: no
