@@ -1,54 +1,46 @@
-<h1 align="center">Allen John Joy</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • MCA Student at FISAT
-</h3>
+# Allen John Joy
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-dccf7b34-61a2-4f49-9b6b-7ca1b89423e0.gif" width="100%">
-</p>
+### Full-Stack Developer • MCA Student at FISAT
 
 
+<p>
 
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://allenjohnn.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://allenjohnn.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/allenjohnjoy" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/allenjohnjoy">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:allenjohnjoy2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+</div>
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,angular,ts,js,python,nodejs,tailwind,git,github,vscode&theme=dark"/>
-</p>
 
-
+</div>
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AllenJohnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AllenJohnn&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllenJohnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=AllenJohnn&theme=tokyonight&hide_border=true"/>
+
 </p>
-
----
-
