@@ -1,46 +1,25 @@
-<div align="center">
+```
+ ▄▄▄· ▄▄▌  ▄▄▌  ▄▄▄ . ▐ ▄      ▐▄▄▄       ▄ .▄ ▐ ▄      ▐▄▄▄       ▄· ▄▌
+▐█ ▀█ ██•  ██•  ▀▄.▀·•█▌▐█      ·██▪     ██▪▐█•█▌▐█      ·██▪     ▐█▪██▌
+▄█▀▀█ ██▪  ██▪  ▐▀▀▪▄▐█▐▐▌    ▪▄ ██ ▄█▀▄ ██▀▐█▐█▐▐▌    ▪▄ ██ ▄█▀▄ ▐█▌▐█▪
+▐█ ▪▐▌▐█▌▐▌▐█▌▐▌▐█▄▄▌██▐█▌    ▐▌▐█▌▐█▌.▐▌██▌▐▀██▐█▌    ▐▌▐█▌▐█▌.▐▌ ▐█▀·.
+ ▀  ▀ .▀▀▀ .▀▀▀  ▀▀▀ ▀▀ █▪     ▀▀▀• ▀█▄▀▪▀▀▀ ·▀▀ █▪     ▀▀▀• ▀█▄▀▪  ▀ •
+```
 
-# Allen John Joy
+developer · mca
 
-### Full-Stack Developer • MCA Student at FISAT
-
-
-<p>
-
-<a href="https://allenjohnn.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/allenjohnjoy">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:allenjohnjoy2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-</div>
+`react` `next.js` `node.js` `typescript`
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,python,nodejs,tailwind,git,github,vscode&theme=dark"/>
-
-</div>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AllenJohnn&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
 
 ---
 
-## GitHub Analytics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllenJohnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+[portfolio](https://allenjohnn.vercel.app)
 
-<img height="170" src="https://streak-stats.demolab.com?user=AllenJohnn&theme=tokyonight&hide_border=true"/>
+[linkedin](https://www.linkedin.com/in/allenjohnjoy/)
 
-</p>
+<sub>alive ig.</sub>
