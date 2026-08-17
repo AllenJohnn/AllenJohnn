@@ -15,3 +15,5 @@ developer · mca
 **[portfolio](https://allenjohnn.vercel.app)** · **[linkedin](https://www.linkedin.com/in/allenjohnjoy/)**
 
 <sub>alive ig.</sub>
+
+<br>
