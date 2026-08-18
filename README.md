@@ -5,7 +5,7 @@
 developer · mca
 <br><br>
 
-`react` `next.js` `node.js` `typescript`
+`react` `next.js` `node.js` `typescript `
 
 <br>
 
