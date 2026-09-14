@@ -16,4 +16,3 @@ developer · mca
 
 <sub>alive ig.</sub>
 
-<br>
