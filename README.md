@@ -7,8 +7,6 @@ developer · mca
 
 `react` `next.js` `node.js` `typescript `
 
-<br>
-
 
 <br>
 
